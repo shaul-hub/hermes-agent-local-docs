@@ -22,6 +22,7 @@ Hermes Dashboard가 실행 상태를 관찰하고 조작하는 UI라면, 이 저
 
 ## 문서 인덱스
 
+- [Architecture HTML](docs/hermes-agent-local/architecture.html)
 - [Product Brief](docs/hermes-agent-local/product-brief.md)
 - [Domain State](docs/hermes-agent-local/domain-state.md)
 - [Glossary](docs/hermes-agent-local/glossary.md)

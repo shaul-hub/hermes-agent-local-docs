@@ -9,6 +9,7 @@
 - local git remote를 새 repo URL로 변경
 - 기존 AI Resource Platform 문서를 `archive/ai-resource-platform-initial/`에 보존
 - Hermes Agent local docs용 README 작성
+- Architecture HTML 문서 작성
 - Product Brief 작성
 - Domain State 작성
 - Glossary 작성
